@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: ''
 permalink: pretty
-title: 'Alexis Mayer’
+title: 'Alexis Mayer'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
