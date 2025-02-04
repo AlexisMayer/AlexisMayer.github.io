@@ -10,7 +10,7 @@ main:
     weight: 4
 
 footer:
-  - name: "Home"
+  - name: "Accueil"
     url: "/"
     weight: 1
   - name: "Contact"
