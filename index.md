@@ -1,5 +1,5 @@
 ---
-title: Alexis Mayer Freelance Data
+title: PyAi : Projets Data & IA
 layout: home
 description: Services Data & IA
 intro_image: "images/illustrations/pointing.svg"
