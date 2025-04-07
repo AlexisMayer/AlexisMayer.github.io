@@ -1,5 +1,5 @@
 ---
-title: PyAi : Projets Data & IA
+title: PyAi - Data & IA
 layout: home
 description: Services Data & IA
 intro_image: "images/illustrations/pointing.svg"
